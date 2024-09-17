@@ -8,4 +8,10 @@ Assignment 2
 Assignment 3
 1. I changed the code to do 10 iterations by changing the variable N, which controlled the loop in main, and then I used firebase realtime database as the location for me to upload my data. I added some imports to make the wifi work, as well as the writing the json file to the database. I upload both the data points themselves as well as the data of min and max response time as well the score.
 
+User Story-
+I want to play more of this button pressing reaction game.
+I would like to see my score, and my min and max reaction times.
+I would like to have those scores uploaded to the cloud for future keeping.
+I can see my data on a database for possible future use.
+
 ![alt text](image.png)
