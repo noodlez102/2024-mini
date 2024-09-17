@@ -1,6 +1,6 @@
 Assignment 1
 
-1. The max_brightness value that I found was 50000 for my room, and the min_brightness value that I found was 25000 for when I covered it with my hand.
+1. The max_brightness value that I found was 27000 for my room, and the min_brightness value that I found was 47000 for when I covered it with my hand to make the duty cycle closer to 0.
 
 Assignment 2
 1. I modified the code to play the tune of twinkle twinkle little star. I did this in the code of twinkle_sound.py under the assignments tab.
